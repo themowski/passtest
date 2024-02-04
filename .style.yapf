@@ -2,6 +2,7 @@
 # Copyright 2023-2024 Kevin Palmowski
 # Full license terms in LICENSE.txt
 
-# Packages required for development only.
+# YAPF configurations for this project.
 
-yapf==0.40.2
+[style]
+based_on_style = google
