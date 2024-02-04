@@ -1,0 +1,5 @@
+# Password Practice Application
+# Copyright 2023-2024 Kevin Palmowski
+# Full license terms in LICENSE.txt
+
+yapf==0.40.2
