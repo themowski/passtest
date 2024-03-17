@@ -199,7 +199,6 @@ if __name__ == "__main__":
     # Initialize a Tk instance
     window = tk.Tk()
     window.wm_title("Password Testing Application")
-    window.iconbitmap(bitmap=b'0101010101010101')
 
     # Initialize the application
     p = PassTest(master=window)
